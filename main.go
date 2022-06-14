@@ -18,3 +18,7 @@ func main() {
 		fmt.Print("Error found")
 	}
 }
+
+func Add(a, b uint64) uint64 {
+	return a + b
+}
